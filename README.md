@@ -1,5 +1,5 @@
 
-Copyright (C) 2025 Fabian Fuchs
+Copyright (C) 2026 Fabian Fuchs
 
 This file may be distributed and/or modified
 
@@ -15,4 +15,4 @@ http://www.latex-project.org/lppl.txt
 
 This is a package providing beamer boxes with variable size corners.
 
-The package scales the corner arc of a beamer block relative to the standard rounded predefined option provided by the beamer class.
+The package allows to scale the corner arc of a beamer blocks relative to the standard `rounded' predefined option provided by the beamer class.
